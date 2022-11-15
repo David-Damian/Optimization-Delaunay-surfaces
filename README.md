@@ -22,8 +22,9 @@ In this respository is develop the optimization problem related with Delaunay su
 
 ## :rocket: ```Título del proyecto``` Superficies de Delaunay
 
-## 👉 ```Objetivo del proyecto``` **Dado uno volumen v, se busca aproximar la superficie de revolución de área mı́nima cuyo
-volumen interior es v. La forma de abordar este problema es vía el método de multiplicadores de Lagrange. Se
+## 👉 ```Objetivo del proyecto``` 
+
+ Dado uno volumen v, se busca aproximar la superficie de revolución de área mı́nima cuyo volumen interior es v. La forma de abordar este problema es vía el método de multiplicadores de Lagrange. Se
 define el lagrangiano a partir del funcional que define el problema de minimización y la resitricción de volumen dado. 
 La ecuación de Euler-Lagrange induce una ecuación diferencial ordinaria no lineal cuya solución analı́tica es posible de obtener para cierta configuración de sus parámetros. Se hace el uso de software para resolver el problema de manera más general y se muestran algunas superficies de las superficies solución, conocidas como Superficies de Delaunay**.
 
