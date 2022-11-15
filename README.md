@@ -40,11 +40,9 @@ Para resolver la ecuación diferencial inducida, se emplea el *Método de Runge-
 ## 🌐 Implementación
 
 
-- En la carpeta *avance1* se encuentra el reporte del primer avance en nuestro proyecto.
+- En la carpeta [avance1](https://github.com/David-Damian/Optimization-Delaunay-surfaces/tree/main/avance1) se encuentra el reporte del primer avance en nuestro proyecto.
  
-- En la carpeta *avance2* se encuentra el reporte del segundo avance en nuestro proyecto.
-    
-- En la carpeta *avance3* se encuentra el reporte del tercer avance en nuestro proyecto.
+- En la carpeta [avance2](https://github.com/David-Damian/Optimization-Delaunay-surfaces/tree/main/avance2) se encuentra el reporte del segundo avance en nuestro proyecto.
 
 ## Referencias del proyecto :books: 
 * [Inspiración del formarto del README](https://github.com/David-Damian/analisis-numerico-computo-cientifico/blob/optimizacion-2021/proyecto_final/proyectos/equipos/equipo_1/README.md)
