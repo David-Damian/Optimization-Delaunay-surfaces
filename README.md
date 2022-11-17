@@ -29,7 +29,7 @@ define el lagrangiano a partir del funcional que define el problema de minimizac
 
 La ecuación de [Euler-Lagrange](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#Statement) induce una ecuación diferencial ordinaria no lineal cuya solución analı́tica es posible de obtener para cierta configuración de sus parámetros. 
 
-Para resolver la ecuación diferencial inducida, se emplea el *Método de Runge-Kuta de orden 4* (Burden & Faires, 2010, pp. 288-289), para resolver dicha ecuación diferencial de manera más general y se muestran algunas superficies de las superficies solución, conocidas como Superficies de Delaunay.
+Para resolver la ecuación diferencial inducida, se emplea el *Método de Runge-Kuta de orden 4* (Burden & Faires, 2010, pp. 288-289), de manera más general (no solo para cierta combinación de parámetros) y se muestran en particular algunas superficies solución, conocidas como Superficies de Delaunay.
 
 ## 🌐 [Repositorio de nuestro proyecto](https://github.com/David-Damian/Optimization-Delaunay-surfaces)
 
