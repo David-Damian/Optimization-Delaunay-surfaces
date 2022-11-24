@@ -46,4 +46,5 @@ Para resolver la ecuación diferencial inducida de manera más general (no solo 
 
 ## Referencias del proyecto :books: 
 * [Inspiración del formarto del README](https://github.com/David-Damian/analisis-numerico-computo-cientifico/blob/optimizacion-2021/proyecto_final/proyectos/equipos/equipo_1/README.md)
+* [Sólidos de revolución con Python](https://stackoverflow.com/questions/59402531/how-to-produce-a-revolution-of-a-2d-plot-with-matplotlib-in-python)
 * Burden, R. L. & Faires, J. D. (2010). Numerical Analysis. Cengage Learning.
