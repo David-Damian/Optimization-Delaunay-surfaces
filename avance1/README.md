@@ -14,10 +14,10 @@
 
 |     ***Contributors***           |             ***Usuario de Github***                  |  ***Roles***  |                               
 |:--------------------------------:|:----------------------------------------------------:|:----------------------:|
-|        David Damián Arbeu        |     [David-Damián](https://github.com/David-Damian)  |       Por determinar   | 
-| Juan Francisco Palmeros Barradas | [JuanPalms](https://github.com/JuanPalms)            |       Por determinar   | 
-|       Valeria Roberts Trujillo   |  [ValeriaRoberts](https://github.com/ValeriaRoberts) |       Por determinar   | 
-|  José Alberto Mandujano Montes   | [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes) |       Por determinar   |
+|        David Damián Arbeu        |     [David-Damián](https://github.com/David-Damian)  |       Grupo de programación   | 
+| Juan Francisco Palmeros Barradas | [JuanPalms](https://github.com/JuanPalms)            |       Grupo de programación   | 
+|       Valeria Roberts Trujillo   |  [ValeriaRoberts](https://github.com/ValeriaRoberts) |       Project manager   | 
+|  José Alberto Mandujano Montes   | [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes) |       Grupo de revisión  |
 
 ## :rocket: ```Título del proyecto``` Superficies de Delaunay
 
@@ -45,12 +45,12 @@ Implementé el *testing* para este primer avance en [test_funcion_imprime_hello_
 ### Project manager
 
 Se crearon 5 Issues:
-* **1 Tareas iniciales** asignado a [David-Damián](https://github.com/David-Damian) y [ValeriaRoberts](https://github.com/ValeriaRoberts)
-* **2 Definición del problema** asignado a [David-Damián](https://github.com/David-Damian)
-* **3 Programación para resolver el problema** asignado a [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
-* **4 Testing** asignado a [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
-* **5 Reporte** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
-* **6 Reporte Avance 2** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
+* ***1 Tareas iniciales*** asignado a [David-Damián](https://github.com/David-Damian) y [ValeriaRoberts](https://github.com/ValeriaRoberts)
+* ***2 Definición del problema*** asignado a [David-Damián](https://github.com/David-Damian)
+* ***3 Programación para resolver el problema*** asignado a [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
+* ***4 Testing*** asignado a [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
+* ***5 Reporte*** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
+* ***6 Reporte Avance 2*** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
 
 Y se crearon 2 *milestone*
 * Avance 1
