@@ -15,10 +15,10 @@ In this respository is developed the optimization problem related with Delaunay 
 
 |     ***Contributors***           |             ***Usuario de Github***                  |  ***Roles***  |                               
 |:--------------------------------:|:----------------------------------------------------:|:----------------------:|
-|        David Damián Arbeu        |     [David-Damián](https://github.com/David-Damian)  |       Por determinar   | 
-| Juan Francisco Palmeros Barradas | [JuanPalms](https://github.com/JuanPalms)            |       Por determinar   | 
-|       Valeria Roberts Trujillo   |  [ValeriaRoberts](https://github.com/ValeriaRoberts) |       Por determinar   | 
-|  José Alberto Mandujano Montes   | [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes) |       Por determinar   |
+|        David Damián Arbeu        |     [David-Damián](https://github.com/David-Damian)  |       Grupo de programación   | 
+| Juan Francisco Palmeros Barradas | [JuanPalms](https://github.com/JuanPalms)            |       Grupo de programación   | 
+|       Valeria Roberts Trujillo   |  [ValeriaRoberts](https://github.com/ValeriaRoberts) |       Project manager   | 
+|  José Alberto Mandujano Montes   | [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes) |       Grupo de revisión  |
 
 ## :rocket: ```Título del proyecto``` Superficies de Delaunay
 
