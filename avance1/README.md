@@ -44,7 +44,19 @@ Implementé el *testing* para este primer avance en [test_funcion_imprime_hello_
 
 ### Project manager
 
-Resolvimos el *milestone* (...) relacionado con los *issues* (...) para la tarea (...)
+Se crearon 5 Issues:
+* **1 Tareas iniciales** asignado a [David-Damián](https://github.com/David-Damian) y [ValeriaRoberts](https://github.com/ValeriaRoberts)
+* **2 Definición del problema** asignado a [David-Damián](https://github.com/David-Damian)
+* **3 Programación para resolver el problema** asignado a [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
+* **4 Testing** asignado a [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
+* **5 Reporte** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
+* **6 Reporte Avance 2** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
+
+Y se crearon 2 *milestone*
+* Avance 1
+* Avance 2
+
+Resolvimos el *milestone* Avance 1 relacionado con los *issues* (1-5) para contar con el 
 
 ### Grupo de programación
 
