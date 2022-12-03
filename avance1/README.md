@@ -60,7 +60,18 @@ Resolvimos el *milestone* Avance 1 relacionado con los *issues* (1-5) para conta
 
 ### Grupo de programación
 
-Programamos (...) que puede consultarse (...).
+Se programo el método de Runge-kutta, el cual sirve para aproximar la solución del problema de valor inicial del tipo
+
+$$y'=f(t,y)   t\in[a,b] y (a)=\alpha$$
+
+Para comprobar la efectividad del método se utilizó el problema siguiente:
+
+$$ y'=y\quad y(0)=1 $$ 
+
+ya que ese problema tiene la solución analítica $y(t)=\exp(t)$.
+Los resultados muestran que la solución numérica es muy similar a la analítica, calculando el error relativo. Por lo que se puede concluir que el método funciona correctamente.
+
+Además se graficó el sólido de revolución enfocado al problema específico que buscamos resolver. Este se encuentra explicado con máyor detalle aquí.
 
 ### Grupo de revisión
 
