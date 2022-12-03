@@ -58,6 +58,18 @@ Y se crearon 2 *milestone*
 
 Resolvimos el *milestone* Avance 1 relacionado con los *issues* (1-5) para contar con el 
 
+Además se adelanto el Reporte final en un 50%. Donde se incluyeron las siguientes secciones:
+* Resumen
+* Introducción al cálculo de variaciones
+    * ¿Qué estudia el cálculo de variaciones?
+* Problemas clásicos de optimización
+    * Problema de la braquistocrona
+    * Problema sobre geodésicas
+* Formulación y solución matemática del problema de optimización
+    * Solución matemática del problema
+        * Solución vía métodos numéricos
+            * Método de Runge Kutta de orden 4
+
 ### Grupo de programación
 
 Se programo el método de Runge-kutta, el cual sirve para aproximar la solución del problema de valor inicial del tipo
@@ -84,3 +96,9 @@ Revisamos (...) con diferentes parámetros y generamos el reporte (...)
 
 Determinamos que nos tomará dos días revisar los índices de las referencias que mencionó Erick y revisaremos la implementación de Erica para que la [funcion_imprime_hello_world_cuda.cu](src/funcion_imprime_hello_world_cuda.cu) imprima un `hello_world` por cada bloque de threads.
 
+Falta completar las siguientes secciones en el Reporte:
+* Antecedentes históricos del problema de optimización
+* Resultados
+    * Interpretación de los resultados
+* Conclusión
+* Bibliografía
