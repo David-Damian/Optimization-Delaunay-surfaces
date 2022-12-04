@@ -27,11 +27,12 @@
 
 ### Resúmen
 
-Inicialmente se nos reunimos para que cada quien expusiera una propuesta de proyecto. Trás una votación se decicio continuar con la propuesta [David-Damián](https://github.com/David-Damian), _Superficies de Delaunay_, la cual además se discutio con el profesor para constar con su aprobacion.
+Inicialmente se nos reunimos para que cada quien expusiera una propuesta de proyecto. Trás una votación se decidió continuar con la propuesta [David-Damián](https://github.com/David-Damian), _Superficies de Delaunay_, la cual además se discutió con el profesor Erick para constar con su aprobacion.
     
-Posteriormente se creó el repositorio y se continuo con especificaciones iniciales correspondientes a detalles del README y estructura inicial de proyecto. Además el project manajer [ValeriaRoberts](https://github.com/ValeriaRoberts) creo una seríe de *issues* relacionados a 2 *milestone*, uno para el primer avance y otro para el segundo avance.
+Posteriormente se creó el repositorio y se continuo con especificaciones iniciales correspondientes a detalles del README y a la estructura inicial del proyecto. Además el project manajer [ValeriaRoberts](https://github.com/ValeriaRoberts) creo una seríe de *issues* relacionados a 2 *milestone*, uno para el primer avance y otro para el segundo avance.
     
-Todos los equipos: programación, testing y project manager cumplieron con el *primer milestone* asociado al avance 1, cerrando los *issues* a tiempo. A continuación se explicará con mayor detalle las especificaciónes de estos *issues*.
+Todos los equipos: programación, testing y project manager cumplieron con el *primer milestone* asociado al avance 1, cerrando los *issues* a tiempo.
+A continuación se explicará con mayor detalle las especificaciónes de estos *issues*.
 
 ### Grupo de programación [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
 
@@ -56,7 +57,7 @@ Cree el repositorio de este proyecto. Así mismo cree algunos directorios tal qu
 
 Posteriormente, me encargué de subir el archivo que describe de manera más detallada que en el README, en qué consiste nuestro pproyecto. Puedes consuktarlo [aquí](https://github.com/David-Damian/Optimization-Delaunay-surfaces/blob/main/notebooks/Propuesta_trabajoFinal.ipynb)
     
- Además aporte significativamente en la redacción y estructura el reporte escrito.
+Además aporte significativamente en la redacción y estructura el reporte escrito. Esto incluye detalles e investigación correspondiente para lograr resolver el problema de optimización, ya que fue la propuesta de trabajo ganadora.
 
 [JuanPalms](https://github.com/JuanPalms):
 
@@ -73,15 +74,17 @@ Se crearon 5 Issues:
 * ***1 Tareas iniciales*** asignado a [David-Damián](https://github.com/David-Damian) y [ValeriaRoberts](https://github.com/ValeriaRoberts)
 * ***2 Definición del problema*** asignado a [David-Damián](https://github.com/David-Damian)
 * ***3 Programación del método Runge Kutta*** asignado a [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
-* ***4 Testing*** asignado a [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
+    * ***3.1 Programación para resolver el problema*** asignado a [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
+* ***4 Dummy Testing*** asignado a [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
+    * ***4. 1 Final Testing*** asignado a [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
 * ***5 Reporte*** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
-* ***6 Reporte Avance 2*** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
+    * ***5.1 Reporte Final*** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
 
 Y se crearon 2 *milestone*
-* Avance 1
-* Avance 2
+* Avance 1 el cual esta asociado a los issues $i.0 i=1,2,...5$
+* Avance 2 el cual esta asociado a los issues $i.1 i=3,4,5$
 
-Resolvimos el *milestone* Avance 1 relacionado con los *issues* (1-5) para contar con el 
+Resolvimos el *milestone* Avance 1 relacionado con los *issues* ($i.0 i=1,2,...5$) para contar con las especificaciónes correspondientes en tiempo y forma.
 
 Además se adelanto el Reporte final en un 50%. Donde se incluyeron las siguientes secciones:
 * Resumen
@@ -99,13 +102,13 @@ Además se adelanto el Reporte final en un 50%. Donde se incluyeron las siguient
 
 ## Tarea (o *milestone* o trabajo) que continúa
 
-Determinamos que nos tomará una semana en revisar nuevamente el trabajo detallado que ha realizado cada individuo para hacer correciones y agregar los detalles finales que hacen falta en cada equipo.
+Determinamos que nos tomará una semana en revisar nuevamente el trabajo detallado que ha realizado cada individuo para hacer correciones y agregar los detalles finales que hacen falta en cada equipo. Una vez que se complete esto se podrá cumplir con el *milestone* relacionado al Avance 2
 
 Equipo de programación:
-Dado que funciona correctamente el método de runge kutta de orden cuato. Falta implementarlo a nuestro problema de interés.
+Dado que funciona correctamente el método de runge kutta de orden cuato. Falta implementarlo a nuestro problema de interés. Estos detalles estan asociado el *issue* 3.1 Programación para resolver el problema
 
 Equipo de testing:
-Falta adaptar el código de testing para que sea aplicable a la solución del problema de interés.
+Falta adaptar el código de testing para que sea aplicable a la solución del problema de interés. Estos detalles estan asociado el *issue* 4. 1 Final Testing
 
 Project Manager.
 Falta supervisar que se cumplan los últimos tres *issues* asociados al avance dos.
@@ -115,3 +118,4 @@ Además, falta completar las siguientes secciones en el Reporte:
     * Interpretación de los resultados
 * Conclusión
 * Bibliografía
+Los detalles que faltan en el reporte estan asociados al *issue* 5.1 Reporte Final
