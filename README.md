@@ -9,7 +9,7 @@ In this respository is developed the optimization problem related with Delaunay 
     
 # <p align = "center"> Proyecto Final: Superficies de Delaunay. Una perspectiva desde el cálculo de variaciones.
   
-# <p align = "center"> Equipo 2
+# <p align = "center"> Equipo 1
 
 ## Integrantes 👨‍🔬 👨‍🔬 👩‍🔬 👨‍🔬
 
@@ -33,7 +33,7 @@ Para resolver la ecuación diferencial inducida de manera más general (no solo 
 
 ## 🌐 [Repositorio de nuestro proyecto](https://github.com/David-Damian/Optimization-Delaunay-surfaces)
 
-## 🌐 Trabajo escrito
+## 🌐 [Trabajo escrito](https://colab.research.google.com/drive/1XA9aNb8SYYdMDgU99fKH2e19lZBY3FJR?usp=sharing)
 
 ## 🌐 Presentación
 

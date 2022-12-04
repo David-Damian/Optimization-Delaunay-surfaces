@@ -8,7 +8,7 @@
     
 # <p align = "center"> Proyecto Final: Superficies de Delaunay. Una perspectiva desde el cálculo de variaciones.
   
-# <p align = "center"> Equipo 2
+# <p align = "center"> Equipo 1
 
 ## Integrantes 👨‍🔬 👨‍🔬 👩‍🔬 👨‍🔬
 
@@ -92,16 +92,24 @@ Además se graficó el sólido de revolución enfocado al problema específico q
 
 ### Grupo de revisión [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
 
-Revisamos (...) con diferentes parámetros y generamos el reporte (...)
-
+Cree los archivos del test para ir haciendo pruebas. Para realizar esta tarea se utilizó un dummy test que solo válida 1==1 para hacer las pruebas iniciales que nos servirán al momento de probar los resultados del problema. 
+Esto se realizo a través de un pull request el cual no ha sido aceptado ya que aún requiere más pruebas y ajuste de detalles.
 
 ---
 
 ## Tarea (o *milestone* o trabajo) que continúa
 
-Determinamos que nos tomará dos días revisar los índices de las referencias que mencionó Erick y revisaremos la implementación de Erica para que la [funcion_imprime_hello_world_cuda.cu](src/funcion_imprime_hello_world_cuda.cu) imprima un `hello_world` por cada bloque de threads.
+Determinamos que nos tomará una semana en revisar nuevamente el trabajo detallado que ha realizado cada individuo para hacer correciones y agregar los detalles finales que hacen falta en cada equipo.
 
-Falta completar las siguientes secciones en el Reporte:
+Equipo de programación:
+Dado que funciona correctamente el método de runge kutta de orden cuato. Falta implementarlo a nuestro problema de interés.
+
+Equipo de testing:
+Falta adaptar el código de testing para que sea aplicable a la solución del problema de interés.
+
+Project Manager.
+Falta supervisar que se cumplan los últimos tres *issues* asociados al avance dos.
+Además, falta completar las siguientes secciones en el Reporte:
 * Antecedentes históricos del problema de optimización
 * Resultados
     * Interpretación de los resultados
