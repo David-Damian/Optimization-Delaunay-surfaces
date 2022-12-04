@@ -47,7 +47,41 @@ Posteriormente, me encargué de subir el archivo que describe de manera más det
 
  - Para mejor estructura del repo, ee el directorio `notebooks` el cual contiene, de acuerdo a las instrucciones del profesorado, archivos .ipynb en los cuales se desarrolla la parte del proyecto relatriva a programación.
 
-### Project manager
+### Grupo de programación [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
+
+Se programo el método de Runge-kutta, el cual sirve para aproximar la solución del problema de valor inicial del tipo
+
+$$y'=f(t,y)   t\in[a,b] y (a)=\alpha$$
+
+Para comprobar la efectividad del método se utilizó el problema siguiente:
+
+$$ y'=y\quad y(0)=1 $$ 
+
+ya que ese problema tiene la solución analítica $y(t)=\exp(t)$.
+Los resultados muestran que la solución numérica es muy similar a la analítica, calculando el error relativo. Por lo que se puede concluir que el método funciona correctamente.
+
+Además se graficó el sólido de revolución enfocado al problema específico que buscamos resolver.
+
+#### Individual
+
+[David-Damián](https://github.com/David-Damian): 
+
+Cree el repositorio de este proyecto. Así mismo cree algunos directorios tal que la organización del repositorio fuese sencilla. Añadí el README del repositorio. Para ello, tompe como base [este README](https://github.com/David-Damian/analisis-numerico-computo-cientifico/blob/optimizacion-2021/proyecto_final/proyectos/equipos/equipo_1/README.md).
+
+Posteriormente, me encargué de subir el archivo que describe de manera más detallada que en el README, en qué consiste nuestro pproyecto. Puedes consuktarlo [aquí](https://github.com/David-Damian/Optimization-Delaunay-surfaces/blob/main/notebooks/Propuesta_trabajoFinal.ipynb)
+    
+ Además aporte significativamente en la redacción y estructura el reporte escrito.
+
+[JuanPalms](https://github.com/JuanPalms):
+
+ - Para mejor estructura del repo, ee el directorio `notebooks` el cual contiene, de acuerdo a las instrucciones del profesorado, archivos .ipynb en los cuales se desarrolla la parte del proyecto relatriva a programación.
+
+### Grupo de revisión [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
+
+Cree los archivos del test para ir haciendo pruebas. Para realizar esta tarea se utilizó un dummy test que solo válida 1==1 para hacer las pruebas iniciales que nos servirán al momento de probar los resultados del problema. 
+Esto se realizo a través de un pull request el cual no ha sido aceptado ya que aún requiere más pruebas y ajuste de detalles.
+
+### Project manager [ValeriaRoberts](https://github.com/ValeriaRoberts)
 
 Se crearon 5 Issues:
 * ***1 Tareas iniciales*** asignado a [David-Damián](https://github.com/David-Damian) y [ValeriaRoberts](https://github.com/ValeriaRoberts)
@@ -74,26 +108,6 @@ Además se adelanto el Reporte final en un 50%. Donde se incluyeron las siguient
     * Solución matemática del problema
         * Solución vía métodos numéricos
             * Método de Runge Kutta de orden 4
-
-### Grupo de programación [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
-
-Se programo el método de Runge-kutta, el cual sirve para aproximar la solución del problema de valor inicial del tipo
-
-$$y'=f(t,y)   t\in[a,b] y (a)=\alpha$$
-
-Para comprobar la efectividad del método se utilizó el problema siguiente:
-
-$$ y'=y\quad y(0)=1 $$ 
-
-ya que ese problema tiene la solución analítica $y(t)=\exp(t)$.
-Los resultados muestran que la solución numérica es muy similar a la analítica, calculando el error relativo. Por lo que se puede concluir que el método funciona correctamente.
-
-Además se graficó el sólido de revolución enfocado al problema específico que buscamos resolver. Este se encuentra explicado con máyor detalle aquí.
-
-### Grupo de revisión [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
-
-Cree los archivos del test para ir haciendo pruebas. Para realizar esta tarea se utilizó un dummy test que solo válida 1==1 para hacer las pruebas iniciales que nos servirán al momento de probar los resultados del problema. 
-Esto se realizo a través de un pull request el cual no ha sido aceptado ya que aún requiere más pruebas y ajuste de detalles.
 
 ---
 
