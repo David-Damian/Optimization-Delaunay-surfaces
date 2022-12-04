@@ -36,13 +36,13 @@ Revisamos (...) con diferentes parámetros y generamos el reporte (...)
 
 [David-Damián](https://github.com/David-Damian): 
 
-Leí la siguiente [referencia](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz4cvQxAHMZ) para revisar implementaciones de la multiplicación de matrices en una GPU. Debo revisar las asignaciones de los índices que se están realizando pues no queda claro el uso de las variables `blockDim` y `blockIdx`, para ello estoy leyendo la sección 3.3 del [libro](http://www.hds.bme.hu/~fhegedus/C++/programming_massively_parallel_processors.pdf).
+Cree el repositorio de este proyecto. Así mismo cree algunos directorios tal que la organización del repositorio fuese sencilla. Añadí el README del repositorio. Para ello, tompe como base [este README](https://github.com/David-Damian/analisis-numerico-computo-cientifico/blob/optimizacion-2021/proyecto_final/proyectos/equipos/equipo_1/README.md).
 
-Implementé la siguiente [funcion_imprime_hello_world_cuda.cu](src/funcion_imprime_hello_world_cuda.cu) en CUDA-C para realizar un hello world.
+Posteriormente, me encargué de subir el archivo que describe de manera más detallada que en el README, en qué consiste nuestro pproyecto. Puedes consuktarlo [aquí](https://github.com/David-Damian/Optimization-Delaunay-surfaces/blob/main/notebooks/Propuesta_trabajoFinal.ipynb)
 
 [JuanPalms](https://github.com/JuanPalms):
 
-Implementé el *testing* para este primer avance en [test_funcion_imprime_hello_world_cuda.cu](src/test/test_funcion_imprime_hello_world_cuda.cu)
+ - Para mejor estructura del repo, ee el directorio `notebooks` el cual contiene, de acuerdo a las instrucciones del profesorado, archivos .ipynb en los cuales se desarrolla la parte del proyecto relatriva a programación.
 
 ### Project manager
 
