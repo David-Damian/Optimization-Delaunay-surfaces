@@ -33,20 +33,6 @@ Posteriormente se creó el repositorio y se continuo con especificaciones inicia
     
 Todos los equipos: programación, testing y project manager cumplieron con el *primer milestone* asociado al avance 1, cerrando los *issues* a tiempo. A continuación se explicará con mayor detalle las especificaciónes de estos *issues*.
 
-### Individual
-
-[David-Damián](https://github.com/David-Damian): 
-
-Cree el repositorio de este proyecto. Así mismo cree algunos directorios tal que la organización del repositorio fuese sencilla. Añadí el README del repositorio. Para ello, tompe como base [este README](https://github.com/David-Damian/analisis-numerico-computo-cientifico/blob/optimizacion-2021/proyecto_final/proyectos/equipos/equipo_1/README.md).
-
-Posteriormente, me encargué de subir el archivo que describe de manera más detallada que en el README, en qué consiste nuestro pproyecto. Puedes consuktarlo [aquí](https://github.com/David-Damian/Optimization-Delaunay-surfaces/blob/main/notebooks/Propuesta_trabajoFinal.ipynb)
-    
- Además aporte significativamente en la redacción y estructura el reporte escrito.
-
-[JuanPalms](https://github.com/JuanPalms):
-
- - Para mejor estructura del repo, ee el directorio `notebooks` el cual contiene, de acuerdo a las instrucciones del profesorado, archivos .ipynb en los cuales se desarrolla la parte del proyecto relatriva a programación.
-
 ### Grupo de programación [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
 
 Se programo el método de Runge-kutta, el cual sirve para aproximar la solución del problema de valor inicial del tipo
