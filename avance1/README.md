@@ -27,10 +27,11 @@
 
 ### Resúmen
 
-Resolvimos el *milestone* (...) relacionado con los *issues* (...) para la tarea (...)
-
-Revisamos (...) con diferentes parámetros y generamos el reporte (...)
-
+Inicialmente se nos reunimos para que cada quien expusiera una propuesta de proyecto. Trás una votación se decicio continuar con la propuesta [David-Damián](https://github.com/David-Damian), _Superficies de Delaunay_, la cual además se discutio con el profesor para constar con su aprobacion.
+    
+Posteriormente se creó el repositorio y se continuo con especificaciones iniciales correspondientes a detalles del README y estructura inicial de proyecto. Además el project manajer [ValeriaRoberts](https://github.com/ValeriaRoberts) creo una seríe de *issues* relacionados a 2 *milestone*, uno para el primer avance y otro para el segundo avance.
+    
+Todos los equipos: programación, testing y project manager cumplieron con el *primer milestone* asociado al avance 1, cerrando los *issues* a tiempo. A continuación se explicará con mayor detalle las especificaciónes de estos *issues*.
 
 ### Individual
 
@@ -39,6 +40,8 @@ Revisamos (...) con diferentes parámetros y generamos el reporte (...)
 Cree el repositorio de este proyecto. Así mismo cree algunos directorios tal que la organización del repositorio fuese sencilla. Añadí el README del repositorio. Para ello, tompe como base [este README](https://github.com/David-Damian/analisis-numerico-computo-cientifico/blob/optimizacion-2021/proyecto_final/proyectos/equipos/equipo_1/README.md).
 
 Posteriormente, me encargué de subir el archivo que describe de manera más detallada que en el README, en qué consiste nuestro pproyecto. Puedes consuktarlo [aquí](https://github.com/David-Damian/Optimization-Delaunay-surfaces/blob/main/notebooks/Propuesta_trabajoFinal.ipynb)
+    
+ Además aporte significativamente en la redacción y estructura el reporte escrito.
 
 [JuanPalms](https://github.com/JuanPalms):
 
