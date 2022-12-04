@@ -81,10 +81,10 @@ Se crearon 5 Issues:
     * ***5.1 Reporte Final*** asignado a [ValeriaRoberts](https://github.com/ValeriaRoberts)
 
 Y se crearon 2 *milestone*
-* Avance 1 el cual esta asociado a los issues $i.0 i=1,2,...5$
-* Avance 2 el cual esta asociado a los issues $i.1 i=3,4,5$
+* Avance 1 el cual esta asociado a los issues $i.0$, $i=1,2,...5$
+* Avance 2 el cual esta asociado a los issues $i.1$, $i=3,4,5$
 
-Resolvimos el *milestone* Avance 1 relacionado con los *issues* ($i.0 i=1,2,...5$) para contar con las especificaciónes correspondientes en tiempo y forma.
+Resolvimos el *milestone* Avance 1 relacionado con los *issues* $i.0$, $i=1,2,...5$ para contar con las especificaciónes correspondientes en tiempo y forma.
 
 Además se adelanto el Reporte final en un 50%. Donde se incluyeron las siguientes secciones:
 * Resumen
