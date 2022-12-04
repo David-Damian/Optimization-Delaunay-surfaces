@@ -8,7 +8,7 @@
     
 # <p align = "center"> Proyecto Final: Superficies de Delaunay. Una perspectiva desde el cálculo de variaciones.
   
-# <p align = "center"> Equipo 2
+# <p align = "center"> Equipo 1
 
 ## Integrantes 👨‍🔬 👨‍🔬 👩‍🔬 👨‍🔬
 
