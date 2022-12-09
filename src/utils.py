@@ -1,4 +1,10 @@
-#Funciones necesarias para hacer las gráficas
+'''Este archivo contiene las funciones necesarias para 
+obtener la solucion de una ecuacion diferencial
+vía el Metodo de Runge Kutta de orden 4(hay una funcion programda para esto)
+y para generar soluciones particulares de una EDO
+y obtener las superficies de Delaunay '''
+
+#librerias necesarias
 import numpy as np
 from numpy import linalg as LA
 import warnings
@@ -69,22 +75,23 @@ def Delaunay(k1,lambda,a,b,xa,xb,vol):
 
             solu=RK4(fun,a, b, alpha=xa, N=1000)[1]
             final=length(solu)
-            if(solu[final]!=’nan’) {
-            if(xb!=xa){
-            xb=1195.5
-            error=abs(solu[final]-xb)
-            if(error<0.4){
-            areas=rep(0,length(solu))
-            fun = fun_difEq
+            #verificar que el vector de soluciones no tenga nan's
+            if(solu[final]!=’nan’):
+                #verificar que la condicion final e inicial no sean iguales
+                if(xb!=xa):
+                    xb=1195.5
+                    error=abs(solu[final]-xb) #verificamos que el ultimo punto de la solucion este cerca de la condicion final
+                    #si cierto, nos quedamos con esta solucion y verificamos que cumple la condicion de volumen
+                    if(error<0.4):
+                        areas=rep(0,length(solu))
+                        fun = fun_difEq
 
-            #Verificar que la solucion satisface la condición de volumen
-            integrando=pi*solu^2
-            for(i in 2:(length(solu)+1)):
-                areas[i-1]=0.001*(integrando[i]+integrando[i-1])/2
+                        #Verificar que la solucion satisface la condición de volumen
+                        integrando=pi*solu^2
+                        for(i in 2:(length(solu)+1)):
+                            areas[i-1]=0.001*(integrando[i]+integrando[i-1])/2
 
-            integral=sum(areas[1:length(areas)-1])
+                        integral=sum(areas[1:length(areas)-1])
 
-            #calcular error de la integral
-            err_integral=abs(integral-vol)
-
-            
+                        #calcular error de la integral
+                        err_integral=abs(integral-vol)
