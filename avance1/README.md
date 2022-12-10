@@ -21,7 +21,7 @@
 
 ## :rocket: ```Título del proyecto``` Superficies de Delaunay
 
-## 🌐 [Trabajo escrito](https://colab.research.google.com/drive/1XA9aNb8SYYdMDgU99fKH2e19lZBY3FJR?usp=sharing)
+## 🌐 [Trabajo escrito](https://drive.google.com/file/d/1eFj753-au0vghaDgTBWP7twcqc6HtbRp/view?usp=sharing)
 
 ## Trabajo:
 
