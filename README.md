@@ -33,7 +33,7 @@ Para resolver la ecuación diferencial inducida de manera más general (no solo 
 
 ## 🌐 [Repositorio de nuestro proyecto](https://github.com/David-Damian/Optimization-Delaunay-surfaces)
 
-## 🌐 [Trabajo escrito](https://colab.research.google.com/drive/1XA9aNb8SYYdMDgU99fKH2e19lZBY3FJR?usp=sharing)
+## 🌐 [Trabajo escrito](https://drive.google.com/drive/u/1/folders/1xI_h8CFtNFiVacF_iKLZ7yscHh8LnNec)
 
 ## 🌐 Presentación
 
