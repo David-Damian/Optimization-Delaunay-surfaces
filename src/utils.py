@@ -9,8 +9,6 @@ import numpy as np
 from numpy import linalg as LA
 import warnings
 import math
-from utils1 import delaunay
-
 warnings.filterwarnings("ignore")
 #funcion auxiliar para calcular errores relativos
 def compute_error(obj,approx):
@@ -41,23 +39,18 @@ def RK4(f,a,b,alpha,N):
     
     w(onedarray) : approximation of function y at N equally spaced point of [a,b]
     '''
-    h=(b-a)/N
-    t=np.zeros(N+1)
-    w=np.zeros(N+1)
+    t=np.arange(a,b,step=1/N)
+    h=t[1]-t[0]
+    w=np.ones(len(t))
     w[0]=alpha
-    for i in range(0,N):
-        t[i]=a+i*h
-        K1=h*f(t[i],w[i])
+    for i in range(0,len(t)-1):
+        K1= h*f(t[i],w[i])
         K2= h*f(t[i]+h/2, w[i]+K1/2)
         K3= h*f(t[i]+h/2, w[i]+K2/2)
-        K4= h*f(t[i]+h/2, w[i]+K3)
+        K4= h*f(t[i]+h, w[i]+K3)
         w[i+1]=w[i]+(K1+2*K2+2*K3+K4)/6
-    t[N]=b
     return t,w 
 
-#funcion que define a la ecuacion diferencial que resolveremos
-def fun_difEq(x,t):
-    np.sqrt((4*x**2-(lam*x**2-k)**2))/(lam*x**2-k)
 
     
 
