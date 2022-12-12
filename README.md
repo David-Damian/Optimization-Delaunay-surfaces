@@ -52,3 +52,4 @@ Para resolver la ecuación diferencial inducida de manera más general (no solo 
 * [Plantilla de LaTeX para el reporte](https://www.latextemplates.com/template/legrand-orange-book)
 * Troutman, J. L. (2022). Variational Calculus and Optimal Control: Optimization with Elementary Convexity (Undergraduate Texts in Mathematics) by John L. Troutman (1995-12-01). Springer.
 * Burden, R. L. & Faires, J. D. (2010). Numerical Analysis. Cengage Learning.
+* [Problema de la braquistócrona en `Python`](https://scipython.com/blog/the-brachistochrone-problem/)
