@@ -35,7 +35,7 @@ Para resolver la ecuación diferencial inducida de manera más general (no solo 
 
 ## 🌐 [Trabajo escrito](https://drive.google.com/drive/u/1/folders/1xI_h8CFtNFiVacF_iKLZ7yscHh8LnNec)
 
-## 🌐 [Presentación](https://github.com/David-Damian/Optimization-Delaunay-surfaces/blob/main/notebooks/Propuesta_trabajoFinal.ipynb)
+## 🌐 [Presentación](https://drive.google.com/drive/u/1/folders/1PFiHOE2EAaN4GCr1xib3-4OOl3eIG-nY)
 
 ## 🌐 Implementación
 
