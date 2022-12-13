@@ -27,12 +27,7 @@
 
 ### Resúmen
 
-Inicialmente se nos reunimos para que cada quien expusiera una propuesta de proyecto. Trás una votación se decidió continuar con la propuesta [David-Damián](https://github.com/David-Damian), _Superficies de Delaunay_, la cual además se discutió con el profesor Erick para constar con su aprobacion.
-    
-Posteriormente se creó el repositorio y se continuo con especificaciones iniciales correspondientes a detalles del README y a la estructura inicial del proyecto. Además el project manajer [ValeriaRoberts](https://github.com/ValeriaRoberts) creo una seríe de *issues* relacionados a 2 *milestone*, uno para el primer avance y otro para el segundo avance.
-    
-Todos los equipos: programación, testing y project manager cumplieron con el *primer milestone* asociado al avance 1, cerrando los *issues* a tiempo.
-A continuación se explicará con mayor detalle las especificaciónes de estos *issues*.
+**AÑADIR RESUMEN**
 
 ### Grupo de programación [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
 
@@ -44,16 +39,21 @@ Así mismo, programamamos la funcion `delunay` que se encuentra en la ruta `/src
 
 [David-Damián](https://github.com/David-Damian): 
 
--
+- Para generar [superficies de Delaunay](https://www.researchgate.net/publication/236935602_Delaunay_Surfaces), programé una función de modo que dadas condiciones iniciales para la ecuación diferencial se encontraran los mejores hiperparámetros y mediante rotación a lo largo del eje horizontal obtener algunas de estas supericies.
+
+- También me encargué de contribuir a la mejora del reporte y comienzo de la presentaci
 
 [JuanPalms](https://github.com/JuanPalms):
 
- - 
+ - Me encargué de refinar la programación del método de Runge Kutta y de proponer *templates* en LaTeX en los cuales migraramos los avances del reporte del Aavance 1 y otro para la presentación final.
+ 
+ - Añadí al reporte, la implementación en `Python` del problema de la braquistócrona.
+ 
+ - También me encargué de contribuir a la mejora del reporte.
 
 ### Grupo de revisión [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
 
-Cree los archivos del test para ir haciendo pruebas. Para realizar esta tarea se utilizó un dummy test que solo válida 1==1 para hacer las pruebas iniciales que nos servirán al momento de probar los resultados del problema. 
-Esto se realizo a través de un pull request el cual no ha sido aceptado ya que aún requiere más pruebas y ajuste de detalles.
+**Añadir descripción**
 
 ### Project manager [ValeriaRoberts](https://github.com/ValeriaRoberts)
 
