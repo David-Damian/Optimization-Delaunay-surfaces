@@ -51,7 +51,7 @@ Para resolver la ecuación diferencial inducida de manera más general (no solo 
 * [Generar una *malla* en \mathbb{R}^2](https://numpy.org/doc/stable/reference/generated/numpy.meshgrid.html)
 * [Sólidos de revolución con Python](https://stackoverflow.com/questions/59402531/how-to-produce-a-revolution-of-a-2d-plot-with-matplotlib-in-python)
 * [Parametrización de sólidos de revolución](https://sistemas.fciencias.unam.mx/~erhc/calculo4_20172/superficies_parametricas_2017_a.pdf)
-* [Cálculo de integrales sin conocer expresiíon analítica del integrando usando `Python`](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.integrate.cumtrapz.html)
+* [Cálculo de integrales sin conocer expresin analítica del integrando usando `Python`](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.integrate.cumtrapz.html)
 * [Plantilla de LaTeX para el reporte](https://www.latextemplates.com/template/legrand-orange-book)
 * [Plantilla de LaTeX para presentación](https://www.overleaf.com/latex/templates/jmu-prasentations-vorlage/cjgfjrsxwhfv)
 * [Problema de la braquistócrona en `Python`](https://scipython.com/blog/the-brachistochrone-problem/)
