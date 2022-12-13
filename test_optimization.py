@@ -1,11 +1,6 @@
 from src.utils import RK4, compute_error
-from scipy.integrate import odeint, solve_ivp
-import numpy as np
-import pandas as pd
-import numpy as np
-from numpy import linalg as LA
-import warnings
-import math
+from scipy.integrate import solve_ivp
+
 
 
 def test_1():
