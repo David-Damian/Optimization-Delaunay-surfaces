@@ -37,12 +37,12 @@ Para resolver la ecuación diferencial inducida de manera más general (no solo 
 
 ## 🌐 [Presentación](https://drive.google.com/drive/u/1/folders/1PFiHOE2EAaN4GCr1xib3-4OOl3eIG-nY)
 
-## 🌐 Implementación
+## [🌐 Implementación](https://github.com/David-Damian/Optimization-Delaunay-surfaces/tree/main/src)
 
 
-- En la carpeta [avance1](https://github.com/David-Damian/Optimization-Delaunay-surfaces/tree/main/avance1) se encuentra el reporte del primer avance en nuestro proyecto.
+> En la carpeta [avance1](https://github.com/David-Damian/Optimization-Delaunay-surfaces/tree/main/avance1) se encuentra el reporte del primer avance en nuestro proyecto.
  
-- En la carpeta [avance2](https://github.com/David-Damian/Optimization-Delaunay-surfaces/tree/main/avance2) se encuentra el reporte del segundo avance en nuestro proyecto.
+> En la carpeta [avance2](https://github.com/David-Damian/Optimization-Delaunay-surfaces/tree/main/avance2) se encuentra el reporte del segundo avance en nuestro proyecto.
 
 ## Referencias del proyecto :books: 
 * Troutman, J. L. (2022). Variational Calculus and Optimal Control: Optimization with Elementary Convexity (Undergraduate Texts in Mathematics) by John L. Troutman (1995-12-01). Springer.
