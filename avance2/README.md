@@ -30,7 +30,9 @@
 ### Resúmen
 
 En primera instancia cada rol se encargo de ajustar los detalles que faltaban. En el caso del grupo de programación terminaron de programar las gráficas de las superfices generadas y se corrigieron detalles correspondientes al método. El grupo de testing termino exitosamente su tarea. Y el project manajer termino el reporte y cerro los issues correspondientes a esta entrega.
+    
 Posteriormente se realizaron reuniones para revisar el trabajo grupal, eso con la finalidad de hacer correcciones más profundas y además asegurar que todo el equipo conociera todos los detalles del trabajo. Estas reuniones fueron muy útiles para correciones correspondientes al reporte final.
+    
 Por último se realizó otra junta para acordar la división de roles en la presentacion final, la cual se ensayo y se dejo lista para su exposición en el salón de clases.
 
 ### Grupo de programación [David-Damián](https://github.com/David-Damian) y [JuanPalms](https://github.com/JuanPalms)
