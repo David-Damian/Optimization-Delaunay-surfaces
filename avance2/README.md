@@ -30,6 +30,8 @@
 ### Resúmen
 
 En primera instancia cada rol se encargo de ajustar los detalles que faltaban. En el caso del grupo de programación terminaron de programar las gráficas de las superfices generadas y se corrigieron detalles correspondientes al método. El grupo de testing termino exitosamente su tarea. Y el project manajer termino el reporte y cerro los issues correspondientes a esta entrega.
+
+Especificamente el grupo de programación para lograr generar las gráficas tuvo que, primero, ejecutar un grid search (lo cual era costoso en algunos casos) y se apoyaron de AWS. La evidencía se puede ver [aquí.](https://github.com/David-Damian/Optimization-Delaunay-surfaces/tree/main/evidencias_AWS)
     
 Posteriormente se realizaron reuniones para revisar el trabajo grupal, eso con la finalidad de hacer correcciones más profundas y además asegurar que todo el equipo conociera todos los detalles del trabajo. Estas reuniones fueron muy útiles para correciones correspondientes al reporte final.
     
