@@ -52,8 +52,9 @@ Así mismo, programamamos la funcion `delunay` que se encuentra en la ruta `/src
  - También me encargué de contribuir a la mejora del reporte.
 
 ### Grupo de revisión [AlbertoMandujanoMontes](https://github.com/AlbertoMandujanoMontes)
-
-**Añadir descripción**
+- Me encargué de escribir los scripts de testeo de las funciones de integración, para esto separé el trabajo en 2 partes:
+    - Primer avance: generar función dummy de testeo, dicha función solo evalúa 1==1 (siempre correcto) con el objetivo de usarla para configurar todo lo necesario para realizar las pruebas.
+    - Segundo avance: reemplazar el testeo dummy por las pruebas finales, incluyendo 2 ecuaciones que se presentan en el proyecto y 2 ecuaciónes base, para validar el proceso.
 
 ### Project manager [ValeriaRoberts](https://github.com/ValeriaRoberts)
 
