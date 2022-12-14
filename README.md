@@ -55,4 +55,4 @@ Para resolver la ecuación diferencial inducida de manera más general (no solo 
 * [Plantilla de LaTeX para el reporte](https://www.latextemplates.com/template/legrand-orange-book)
 * [Plantilla de LaTeX para presentación](https://www.overleaf.com/latex/templates/jmu-prasentations-vorlage/cjgfjrsxwhfv)
 * [Problema de la braquistócrona en `Python`](https://scipython.com/blog/the-brachistochrone-problem/)
-* [Documentación de la librería para probar la integración]([https://scipython.com/blog/the-brachistochrone-problem/](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html))
+* [Documentación de la librería para probar la integración](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html)
